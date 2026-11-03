@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/kairos-banner.jpg" alt="Kairos Banner" width="100%" />
+<img src="Gemini_Generated_Image_t9eujet9eujet9eu.jpg" alt="Kairos Banner" width="100%" />
 
 # Kairos Model Family
 
