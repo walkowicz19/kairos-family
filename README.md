@@ -116,28 +116,28 @@ Much of the Kairos experimentation and adapter training process is designed arou
       <td>1.0</td>
       <td>1.5B</td>
       <td>Smaller reasoning and decision support model for lighter deployments.</td>
-      <td><a href="https://huggingface.co/Walkowicz/kairos-phronesis-mini-1.0-1.5B">Hugging Face</a></td>
+      <td><a href="https://huggingface.co/Walkowicz/kairos-phronesis-mini-1.0">Hugging Face</a></td>
     </tr>
     <tr>
       <td><strong>Kairos Phronesis Nano</strong></td>
       <td>1.0</td>
       <td>0.5B</td>
       <td>Ultra-light structured reasoning model for constrained environments and experimentation.</td>
-      <td><a href="https://huggingface.co/Walkowicz/kairos-phronesis-nano-1.0-0.5B">Hugging Face</a></td>
+      <td><a href="https://huggingface.co/Walkowicz/kairos-phronesis-nano-1.0">Hugging Face</a></td>
     </tr>
     <tr>
       <td><strong>Kairos PI Large</strong></td>
       <td>1.0</td>
       <td>395M</td>
       <td>Lightweight decision model for low-latency tasks and compact inference scenarios.</td>
-      <td><a href="https://huggingface.co/Walkowicz/kairos-pi-large-1.0-395M">Hugging Face</a></td>
+      <td><a href="https://huggingface.co/Walkowicz/kairos-pi-large-1.0">Hugging Face</a></td>
     </tr>
     <tr>
       <td><strong>Kairos PI Low</strong></td>
       <td>1.0</td>
       <td>149M</td>
       <td>Minimal-footprint decision model for highly constrained or edge-like environments.</td>
-      <td><a href="https://huggingface.co/Walkowicz/kairos-pi-low-1.0-149M">Hugging Face</a></td>
+      <td><a href="https://huggingface.co/Walkowicz/kairos-pi-low-1.0">Hugging Face</a></td>
     </tr>
   </tbody>
 </table>
